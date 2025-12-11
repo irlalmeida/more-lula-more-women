@@ -1,0 +1,7 @@
+metrica,grupo,r_pearson,p_value_pearson,significancia_pearson,n
+Deputadas Federais (%),< 50% Lula,-0.1064,0.0,SIM,2858
+Deputadas Federais (%),≥ 50% Lula,-0.0594,0.001983,SIM,2712
+Deputadas Estaduais/Distritais (%),< 50% Lula,0.0128,0.492963,NÃO,2858
+Deputadas Estaduais/Distritais (%),≥ 50% Lula,-0.0134,0.485167,NÃO,2712
+Deputadas Total (%),< 50% Lula,-0.0748,6.3e-05,SIM,2858
+Deputadas Total (%),≥ 50% Lula,-0.0494,0.010047,SIM,2712
